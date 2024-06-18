@@ -20,8 +20,3 @@ Welcome to **Resume-Screening**, a machine learning project designed to automate
 - **Flask** (for the web interface)
 - **Jupyter Notebook** (for development and testing)
 
-## Getting Started 🚀
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/Resume-Screening.git
